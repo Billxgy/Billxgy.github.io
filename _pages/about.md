@@ -15,10 +15,14 @@ My research focuses on **Software Engineering, AI Safety, Formal Methods**.
 
 Publications
 ======
-**OOPSLA 2026**
-[MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents]()
-**Gengyang Xu**, Dongwei Xiao, Yiteng Peng, and Shuai Wang.
-*Proceedings of the ACM on Programming Languages, Issue OOPSLA*
+
+<span style="background-color: #007BFF; color: white; padding: 6px 12px; border-radius: 4px; font-weight: bold;">OOPSLA 2026</span>
+
+[**MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents**]()  
+
+Gengyang Xu, Dongwei Xiao, Yiteng Peng, and Shuai Wang  
+
+*Proceedings of the ACM on Programming Languages (OOPSLA)*
 
 Getting started
 ======
