@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gengyang Xu - Academic Portfolio"
+# title: "Gengyang Xu - Academic Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
