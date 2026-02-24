@@ -26,11 +26,11 @@ author:
   avatar           : "files\\profile photo.jpg"
   name             : "Gengyang Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at Department of Computer Science and Engineering, HKUST"
+  location         : "Hong Kong"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gxuah@cse.ust.hk" 
 
   # Academic websites
   academia         : # URL
